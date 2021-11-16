@@ -22,7 +22,7 @@
   "homepage": "https://github.com/rodrigo-morais/send-slack-message#readme",
   "dependencies": {
     "@slack/web-api": "^5.6.0",
-    "aws-sdk": "^2.595.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.2.0"
   }
 }
